@@ -1,8 +1,0 @@
-# WAV audio files
-*.wav
-
-# Python virtual environment
-venv/
-
-# Pickle files
-*.pkl
